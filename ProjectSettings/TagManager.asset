@@ -3,12 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Farola
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Farola
   - Water
   - UI
   - 
